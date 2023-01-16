@@ -585,7 +585,6 @@
 .container-ZMc96U {
   background: var(--background-primary);
   box-shadow: var(--shadow-bottom);
-  padding-right: 238px;
   z-index: 0;
 }
 /* Status picker Settings */
@@ -599,10 +598,6 @@
 .container-YkUktl {
   background: var(--background-secondary);
   border-radius: 0 0 0 18px;
-  right: 0;
-  top: 0;
-  position: absolute;
-  width: 220px;
 }
 .iconWrapper-2awDjA[aria-label="Help"] {
   display: none;
@@ -1086,10 +1081,6 @@ html:only-child > head + body > div#app-mount.appMount-2yBXZl > div.app-3xd6d0 >
   box-shadow: none;
 }
 */
-.chatContent-3KubbW {
-  min-width: calc(100% - 60px);
-  max-width: calc(100% - 60px);
-}
 .chatContent-3KubbW[aria-label=" (channel)"] {
   min-width: 100%;
   max-width: 100%;
