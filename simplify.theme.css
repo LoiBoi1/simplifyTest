@@ -103,7 +103,7 @@
 
     --rs-avatar-shape: 50%; /* 50% for round - 0% for square */
 
-    --rs-online-color: #43b581; /* Colour for online status */
+    --rs-online-color: #000000; /* Colour for online status */
     --rs-idle-color: #faa61a; /* Colour for idle status */
     --rs-dnd-color: #f04747; /* Colour for dnd status */
     --rs-offline-color: #636b75; /* Colour for offline status */
