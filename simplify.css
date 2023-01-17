@@ -31,7 +31,7 @@
   --background-secondary: #181d33;
   --background-secondary-alt: #14192b;
   --background-tertiary: #14192b;
-  --background-accent: #4d6a91;
+  --background-accent: #c94f4e;
   --background-floating: #171d30;
   --background-modifier-hover: rgba(50, 53, 85, 0.322);
   --background-modifier-active: rgba(56, 62, 97, 0.37);
@@ -583,7 +583,7 @@
   display: none;
 }
 .container-ZMc96U {
-  background: var(--background-primary);
+  background: #1c223a;
   box-shadow: var(--shadow-bottom);
   z-index: 0;
 }
@@ -598,6 +598,7 @@
 .container-YkUktl {
   background: var(--background-secondary);
   border-radius: 0 0 0 18px;
+  border-top: solid 5px var(--background-tertiary);
 }
 .iconWrapper-2awDjA[aria-label="Help"] {
   display: none;
@@ -1233,4 +1234,16 @@ button[aria-label="Send a gift"],
   content: "Jump to Message";
   font-size: 16px;
   font-weight: 500;
+}
+
+/* ADDED BY ME */
+
+.member-48YF_l, .members-3WRCEx, .container-2o3qEW {
+  background: var(--background-secondary);
+  border: none;
+  border-radius: 17px 0 0 0;
+  margin-left: 10px;
+}
+.container-ZMc96U.themed-Hp1KC_{
+  background: #1c223a;
 }
