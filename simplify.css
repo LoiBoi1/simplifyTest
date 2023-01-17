@@ -668,13 +668,13 @@
 /* Tooltips */
 #app-mount .tooltipPrimary-3qLMbS,
 .toolbar-37BrJ5 {
-  background-color: var(--background-floating);
+  background-color: #171d30;
 }
 .toolbar-37BrJ5:before {
-  border-top-color: var(--background-floating);
+  border-top-color: #171d30;
 }
 #app-mount .tooltipPrimary-3qLMbS .tooltipPointer-3L49xb {
-  border-top-color: var(--background-floating);
+  border-top-color: #171d30;
 }
 /* Voice/Game/etc bar */
 .container-1zzFcN,
@@ -1264,7 +1264,6 @@ button[aria-label="Send a gift"],
   border-radius: 4px;
   background: #1c223a;
 }
-
 .customItem-2CxBSo{
   color: var(--interactive-normal);
     border-color: var(--interactive-normal);
@@ -1272,7 +1271,9 @@ button[aria-label="Send a gift"],
     font-weight: 500;
     line-height: 18px;
 }
-
 .button-1zW0-r{
   background-color: #1c223a;
+}
+.numberBadge-37OJ3S.base-3IDx3L {
+  background-color: var(--info-danger-background) !important;
 }
