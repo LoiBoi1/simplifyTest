@@ -1047,7 +1047,7 @@ html:only-child > head + body > div#app-mount.appMount-2yBXZl > div.app-3xd6d0 >
 
 /* Minified Members and Search */
 /* By Fitil, Search fix by Cryptogenic */
-
+/*
 .members-3WRCEx,
 .membersWrap-3NUR2t,
 .searchResultsWrap-5RVOkx {
@@ -1086,7 +1086,7 @@ html:only-child > head + body > div#app-mount.appMount-2yBXZl > div.app-3xd6d0 >
   min-width: 100%;
   max-width: 100%;
 }
-
+*/
 /* User Role List Category Group Labels */
 .members-3WRCEx .membersGroup-2eiWxl {
   width: calc(var(--User-List-Width) - 16px);
