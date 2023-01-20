@@ -33,7 +33,7 @@
   --background-tertiary: #14192b;
   --background-accent: #c94f4e;
   --background-floating: #171d30;
-  --background-modifier-hover: rgba(50, 53, 85, 0.322);
+  --background-modifier-hover: rgba(49, 52, 84, 0.322);
   --background-modifier-active: rgba(56, 62, 97, 0.37);
   --background-modifier-selected: rgba(42, 51, 75, 0.301);
   --background-modifier-accent: rgba(255, 255, 255, 0.06);
@@ -1277,8 +1277,12 @@ button[aria-label="Send a gift"],
 .numberBadge-37OJ3S.base-3IDx3L {
   background-color: var(--info-danger-background) !important;
 }
-
-
 .option-ayUoaq:after {
   background: none;
+}
+.option-ayUoaq:hover:after {
+  background: none;
+}
+.container-2ebMPP {
+  background-color: #181d33;
 }
