@@ -491,27 +491,27 @@
 
 /* Search Popouts */
 #app-mount .container-2McqkF {
-  background: var(--background-secondary) !important;
-  box-shadow: var(--background-tertiary);
+  background: #181d33 !important;
+  box-shadow: #14192b;
 }
 #app-mount .option-2KkUJO:after {
   display: none;
 }
 #app-mount .option-2KkUJO.selected-rZcOL-,
 .input-3r5zZY {
-  background-color: var(--background-tertiary);
+  background-color: #14192b;
 }
 #app-mount .focused-2FU0YH {
-  background-color: var(--background-tertiary);
+  background-color: #14192b;
 }
 #app-mount .searchAnswer-23w-CH,
 #app-mount .searchFilter-2UfsDk {
-  background-color: var(--background-primary);
-  color: var(--header-primary);
+  background-color: #1c223a;
+  color: #fff;
 }
 
 #app-mount .container-2McqkF {
-  background-color: var(--background-primary);
+  background-color: #1c223a;
 }
 
 /* Stream Preview Popouts */
