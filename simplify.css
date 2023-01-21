@@ -738,7 +738,7 @@
   background-color: var(--background-tertiary) !important;
 }
 #app-mount .auditLog-3jNbM6 {
-  border-color: var(--background-tertiary);
+  border-color: #14192b;
 }
 #app-mount .card-o7rAq- {
   background-color: var(--background-secondary);
@@ -1306,4 +1306,16 @@ button[aria-label="Send a gift"],
 }
 .inspector-DFKXwB {
   background-color: #14192b;
+}
+.copyInput-3AbKWB {
+  background-color: #181d33;
+}
+.copyInputDefault-3jiMHw {
+  border-color: #181d33;
+}
+.lookFilled-1GseHa.select-1Ia3hD {
+  background-color: #181d33;
+}
+.input-2g-os5 {
+  background-color: #181d33;
 }
