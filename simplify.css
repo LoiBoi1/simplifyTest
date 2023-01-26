@@ -199,7 +199,7 @@
 .scrollableContainer-15eg7h {
   border-radius: 20px;
   border: 1px solid var(--background-tertiary);
-  background-color: var(--background-secondary);
+  background-color: var(--background-secondary) !important;
 }
 .replyBar-1oi75v,
 .threadSuggestionBar-3ExSyc {
